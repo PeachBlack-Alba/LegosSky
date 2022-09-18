@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lego Sky</string>
+    <string name="hello_first_fragment">Car Detailing by Monty</string>
+    <string name="headline_text">Headpiece designer based in Berlin. Queer owned.</string>
+    <string name="orders_text">Accepting orders</string>
+    <string name="phone_number_text">017 633 76 48 82</string>
+    <string name="middle_text">Be sickening</string>
+    <string name="legos">Legos Sky</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="action_settings">Action Settings</string>
+</resources>
